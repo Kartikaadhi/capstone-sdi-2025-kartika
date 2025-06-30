@@ -9,6 +9,7 @@
 Fenomena #KaburAjaDulu mencerminkan keresahan nyata generasi muda terhadap berbagai isu seperti ekonomi, pendidikan, dan sosial di Indonesia. Dalam proyek ini, saya mencoba memahami aspirasi mereka lewat opini-opini publik yang tersebar di media sosial dan menganalisisnya menggunakan model bahasa besar (LLM) dari IBM Granite. Hasil dari analisis ini diharapkan bisa menjadi masukan yang relevan bagi pemerintah dan institusi terkait.
 
 ---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AbCDEFghijklmNOPQRstuVWXyz)
 
 ### Tujuan Proyek
 
