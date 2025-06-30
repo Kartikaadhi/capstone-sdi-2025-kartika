@@ -81,8 +81,8 @@ Rekomendasi:
 
 | Opini Publik                                                             | Manual Kategori | LLM Kategori |
 | ------------------------------------------------------------------------ | --------------- | ------------ |
-| pendidikan di sini mahal dan gak semua daerah punya akses internet capek | Ekonomi         | Pendidikan   |
-| bukan benci negara sendiri cuma pengen hidup yang lebih manusiawi        | Pendidikan      | Sosial       |
+| pendidikan di sini mahal dan gak semua daerah punya akses internet capek | Pendidikan         | Pendidikan   |
+| bukan benci negara sendiri cuma pengen hidup yang lebih manusiawi        | Ekonomi      | Sosial       |
 | lingkungan kerja toxic banget senioritas berlebihan                      | Sosial          | Sosial       |
 
 > 📌 *Beberapa perbedaan muncul antara klasifikasi manual dan hasil dari LLM. Ini justru menarik karena memberikan sudut pandang baru dan membuka diskusi tentang bagaimana AI memahami konteks sosial.*
