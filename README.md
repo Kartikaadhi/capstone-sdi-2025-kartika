@@ -82,7 +82,7 @@ Rekomendasi:
 
 | Opini Publik                                                             | Manual Kategori | LLM Kategori |
 | ------------------------------------------------------------------------ | --------------- | ------------ |
-| pendidikan di sini mahal dan gak semua daerah punya akses internet capek | Pendidikan         | Pendidikan   |
+| pendidikan di sini mahal dan gak semua daerah punya akses internet,capek | Pendidikan         | Pendidikan   |
 | bukan benci negara sendiri cuma pengen hidup yang lebih manusiawi        | Ekonomi      | Sosial       |
 | lingkungan kerja toxic banget senioritas berlebihan                      | Sosial          | Sosial       |
 
